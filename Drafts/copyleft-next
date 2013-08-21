@@ -30,7 +30,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    "You"/"Your" refers to the individual or legal entity exercising
    rights in My Code under this License.
-   
+
 
 1. Copyright and Patent License Grants
 
@@ -52,7 +52,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 3. Lawful Uses Unaffected
 
    This License does not exclude or limit any rights you have under
-   copyright or other applicable law, including, but not limited to, fair use and 
+   copyright or other applicable law, including, but not limited to, fair use and
    fair dealing rights.
 
 4. General Conditions for Distributing Covered Code
@@ -60,8 +60,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    If You Distribute Covered Code, You must (i) inform recipients how they
    can obtain a copy of this License; (ii) satisfy the applicable
    conditions of Sections 4 through 7; and (iii) preserve all Legal Notices
-   contained in My Code. "Legal Notices" means copyright notices, license notices, 
-   license texts, warranty disclaimers, and author attributions, but does not 
+   contained in My Code. "Legal Notices" means copyright notices, license notices,
+   license texts, warranty disclaimers, and author attributions, but does not
    include logos, other graphical images, trademarks or trademark legends.
 
 5. Distributing Covered Code: Copyleft Conditions and Pass-Through
@@ -84,9 +84,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    alternatively Distribute Covered Code under a Later Version. In such a
    case, You may only Distribute Covered Code under This Version.
 
-   Notwithstanding any other Section of this License, You may additionally 
-   Distribute Covered Code under the GPL, so that a recipient may further 
-   Distribute such Covered Code under either this License (and/or a Later 
+   Notwithstanding any other Section of this License, You may additionally
+   Distribute Covered Code under the GPL, so that a recipient may further
+   Distribute such Covered Code under either this License (and/or a Later
    Version) and/or the GPL.
 
    You may Distribute a Modification under this License even if it
@@ -111,14 +111,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    If you Distribute the Object Code Form in a physical product or tangible
    storage medium ("Product"), the Corresponding Source must be available
    through such URL for two years from the date of Your most recent
-   Distribution of the Object Code Form in the Product. 
-   
+   Distribution of the Object Code Form in the Product.
+
    If the Product itself contains or is accompanied by the Corresponding Source
    (made available in a customarily accessible manner), You need not also
    comply with the first two paragraphs of this section.
 
    Each recipient of Covered Code from You is an intended third-party
-   beneficiary of this License solely as to this section 5, with the right
+   beneficiary of this License solely as to this section 7, with the right
    to enforce its terms.
 
 8. Symmetrical Licensing Condition for Upstream Contributions
@@ -135,11 +135,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    a license that is OSI-Approved or FSF-Free as of the release date of this
    License or a numbered version of copyleft-next released by the
    Copyleft-Next Project, then the license I grant You under section 1 is no
-   longer subject to the conditions in Sections 5 through 8.
+   longer subject to the conditions in Sections 4 through 7.
 
 10. Copyleft Sunset
 
-   The conditions in Sections 5 through  8no longer apply once fifteen
+   The conditions in Sections 4 through 7 no longer apply once fifteen
    years have elapsed from the date of My first Distribution of My Code
    under this License.
 
